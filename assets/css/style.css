@@ -1,0 +1,13 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #000;
+}
+
+header {
+  background-color: rgb(255, 255, 35);
+}
+
+#search-form {
+  background-color: rgb(255, 255, 35, 0.5);
+}
